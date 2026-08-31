@@ -107,3 +107,4 @@ class Formulas:
         Fórmula: h = sqrt(cateto1^2 + cateto2^2)
         """
         return math.sqrt(cateto1 ** 2 + cateto2 ** 2)
+# Ejercicio de formulas completado

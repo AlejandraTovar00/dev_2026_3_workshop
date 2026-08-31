@@ -159,3 +159,4 @@ class Data:
                 nueva_fila.append(matriz[i][j])
             transpuesta.append(nueva_fila)
         return transpuesta
+# Ejercicio de estructuras de datos completado

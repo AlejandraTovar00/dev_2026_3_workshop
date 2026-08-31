@@ -107,3 +107,4 @@ class Conversion:
             return ""
         codigos = morse.split()
         return "".join(morse_inverso[codigo] for codigo in codigos)
+# Ejercicio de conversiones completado

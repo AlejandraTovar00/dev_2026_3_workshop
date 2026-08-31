@@ -56,5 +56,6 @@ class Logica:
         Implementa la operación lógica de bi-implicación (a <-> b).
         """
         return a == b
+# Ejercicio de logic completado
     
     

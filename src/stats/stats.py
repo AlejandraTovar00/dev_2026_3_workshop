@@ -66,3 +66,4 @@ class Stats:
             return 0
         diferencia = max(numeros) - min(numeros)
         return round(diferencia, 10)
+# Ejercicio de stats completado

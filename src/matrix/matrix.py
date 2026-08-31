@@ -183,3 +183,4 @@ class Matrix:
                 if matriz[i][j] == valor:
                     posiciones.append((i, j))
         return posiciones
+# Ejercicio de matrix completado

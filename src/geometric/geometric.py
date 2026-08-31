@@ -175,3 +175,4 @@ class Geometria:
         Calcula el perímetro de un polígono regular.
         """
         return num_lados * lado
+# Ejercicio de geometric completado

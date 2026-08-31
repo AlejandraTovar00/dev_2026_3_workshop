@@ -112,3 +112,4 @@ class Games:
                     return False
                 fila += paso
             return True
+# Ejercicio de games completado

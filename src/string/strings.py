@@ -143,3 +143,4 @@ class Strings:
             if texto[i:i+m] == subcadena:
                 posiciones.append(i)
         return posiciones
+# Ejercicio de strings completado

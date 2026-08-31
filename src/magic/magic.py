@@ -160,3 +160,4 @@ class Magic:
             return False
         
         return True
+# Ejercicio de magic completado
